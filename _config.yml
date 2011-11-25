@@ -1,6 +1,6 @@
 ---
 destination : /Users/sjm/Sites/smurphmeister.github.com
-auto        : true
+auto        : false
 lsi         : false
 pygments    : true
 permalink   : none
