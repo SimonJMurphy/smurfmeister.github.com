@@ -20,8 +20,8 @@ Current Research
 +-- {.section}
 Past Publications
 ==========
-* [Characteristics of Kepler short- and long-cadence data](/images/characteristics.pdf)
-* [The Kepler characterization of the variability among A- and F-type stars. I. General overview](http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2011A%26A...534A.125U&link_type=ARTICLE&db_key=AST&high=), Uytterhoeven, K. et al.
+* [Characteristics of Kepler short- and long-cadence data](/images/characteristics.pdf), Murphy 2012
+* [The Kepler characterization of the variability among A- and F-type stars. I. General overview](http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2011A%26A...534A.125U&link_type=ARTICLE&db_key=AST&high=), Uytterhoeven, K. et al. 2011
 =--
 
 +-- {.section}
