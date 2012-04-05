@@ -13,8 +13,8 @@ As a member of the Kepler Asteroseismic Science Consortium I use ultra-precise K
 Current Research
 ====
 * [Investigating the incidence of chemically peculiar stars in the delta Scuti instability strip](/images/chemical_peculiarity.pdf);
-* The prevalence of photometrically-detectable granulation in A-type stars; and
-* [Combination frequencies in delta Scuti pulsators](/images/combination_frequencies.pdf).
+* [Combination frequencies in delta Scuti pulsators](/images/combination_frequencies.pdf); and
+* Inadvertently discovering bugs in the Kepler data processing pipeline.
 =--
 
 +-- {.section}

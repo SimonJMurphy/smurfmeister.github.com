@@ -20,8 +20,8 @@ Research
 Ongoing projects include:
 
 * Investigating the incidence of chemically peculiar stars in the delta Scuti instability strip;
-* The prevalence of photometrically-detectable granulation in A-type stars; and
-* Combination frequencies in delta Scuti pulsators.
+* Combination frequencies in delta Scuti pulsators; and
+* Inadvertently discovering bugs in the Kepler data processing pipeline.
 
 =--
 
