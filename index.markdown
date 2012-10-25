@@ -3,7 +3,7 @@ layout: default
 title: Home
 section: Home
 
-keywords: Astronomy, Asteroseismology, Kepler, Jeremiah Horrocks Institute, delta Scuti
+keywords: Simon Murphy, Astronomy, Astrophysics, Asteroseismology, Kepler, Jeremiah Horrocks Institute, delta Scuti, chemical peculiar, A-type star, Am star, Fourier, Nyquist
 ---
 
 <img class='inset right' src='/images/simon_murphy.jpg' title='Simon Murphy' alt='Simon @ Yellowstone National Park' width='120px' />
