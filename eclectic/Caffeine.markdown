@@ -4,7 +4,7 @@ title: Eclectic
 section: Caffeine
 ---
 
-Outline
+Caffeine Addiction
 ========
 
 It is common knowledge among my friends that I have a slight addiction to Red Bull (or equivalent energy drink). I have it under control -- only one per day, and only on work days. I enjoy it and I consider it a daily treat. You may have your own. It is an addiction that carries with it a certain stigma. I notice, however, that coffee does not have the same stigma, and I'm even shunned for <em>not</em> drinking coffee. So I took it upon myself to compare habits.

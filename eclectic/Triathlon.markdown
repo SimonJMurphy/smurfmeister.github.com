@@ -4,9 +4,10 @@ title: Eclectic
 section: Triathlon
 ---
 
-Outline
+Triathlon
 ========
 
+<strong>Outline</strong><br>
 After a couple of long bicycle rides in the same week on a rather nice bike in Majorca, I decided that, since I'm not a bad runner, it might be worth having a go at a triathlon. The fact that I go swimming barely once a year and sink like a brick was a minor footnote on the decision, so, as always, I jumped head-on into my new 'grand idea' without any real training. Here's what happened.
 
 +-- {.section}

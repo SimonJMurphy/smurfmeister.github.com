@@ -4,7 +4,7 @@ title: Eclectic
 section: Running-times
 ---
 
-Outline
+Organising a Film Collection
 ========
 
 There comes a time in every man's life when he must rearrange his dvd or blu-ray collection. Maybe he has moved or is moving house, has bought a new bookcase to range dvds in, or has bought so many dvds that the burgeoning entropy of the collection is giving him a headache. Whatever the reason, the task is clear. The decisions involved, however, are difficult.
