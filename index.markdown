@@ -19,16 +19,15 @@ Research
 
 Ongoing projects include:
 
-* Investigating the incidence of chemically peculiar stars in the delta Scuti instability strip;
-* Combination frequencies in delta Scuti pulsators; and
-* Inadvertently discovering bugs in the Kepler data processing pipeline.
-
+* Investigating the chemically peculiar stars in the delta Scuti instability strip; and
+* Case studies of individual delta Scuti stars.
 =--
+
+Previous publications are collected under the [Research](/research) tab on the top-right of the page.
 
 +-- {.section}
 Hobbies
 =======
 
-I enjoy football, hiking, skiing, running, cycling, board games, computer games and films.
 
 =--

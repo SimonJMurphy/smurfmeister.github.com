@@ -12,16 +12,21 @@ As a member of the Kepler Asteroseismic Science Consortium I use ultra-precise K
 +-- {.section}
 Current Research
 ====
-* [Investigating the incidence of chemically peculiar stars in the delta Scuti instability strip](/images/chemical_peculiarity.pdf);
-* [Combination frequencies in delta Scuti pulsators](/images/combination_frequencies.pdf); and
-* [Inadvertently discovering bugs in the Kepler data processing pipeline](/images/PDC_noise_poster_v2.pdf).
+* Investigating the chemically peculiar stars in the delta Scuti instability strip; and
+* Case studies of individual delta Scuti stars.
 =--
 
 +-- {.section}
-Past Publications
+First-author Publications
 ==========
-* [Characteristics of Kepler short- and long-cadence data](/images/characteristics.pdf), Murphy 2012
-* [Pulsational amplitude growth of KIC 3420637 (HD 178875) in the context of Am and rho Puppis stars](/images/kic3429637_v5.pdf), Murphy et al. 2012 (in press)
+* [Kepler Fourier concepts: The performance of the Kepler data pipeline](/images/kepler_fourier_concepts.pdf), Murphy (2012b), AN, in press
+* [Pulsational amplitude growth of KIC 3420637 (HD 178875) in the context of Am and rho Puppis stars](/images/kic3429637_v5.pdf), Murphy et al. (2012), arXiv1209.1493
+* [Characteristics of Kepler short- and long-cadence data](/images/characteristics.pdf), Murphy (2012a), MNRAS 422, 665
+=--
+
++-- {.section}
+As co-author
+==========
 * [Unusual high-frequency oscillations in the Kepler delta Scuti star KIC 4840675](/images/Balona_et_al_2012.pdf), Balona et al. 2012
 * [The Kepler characterization of the variability among A- and F-type stars. I. General overview](/images/Uytterhoeven_et_al_2011.pdf), Uytterhoeven et al. 2011
 =--
@@ -31,5 +36,3 @@ Contact
 =======
 I can be reached at work by phone on +44 7534 987 931, or by email at [smurphy6@uclan.ac.uk](mailto:smurphy6@uclan.ac.uk).
 =--
-
-
