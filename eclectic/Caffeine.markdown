@@ -15,7 +15,6 @@ It is common knowledge among my friends that I have a slight addiction to Red Bu
 
 The above is a plot showing the caffeine level in the body as a function of time, based on two models (explained below in 'The study'). The coffee+choc model obviously has much higher intake, but the caffeine is not completely metabolised before the next day when the 10:30 coffee is taken. This is why I had to extend the plot to cover saturday.
 
-Just for fun, I also decided to plot the altitude of the Sun, calculated for 40 degrees latitude (Porto -- my city of residence at the time of writing), and the current week (12-17th Nov inclusive)... Sadly, it reaches a lower altitude each day. It serves as a useful reference point for when each day starts and ends.
 Just for fun, I also decided to plot the altitude of the Sun, calculated for latitude 40&deg; N (Porto -- my city of residence at the time of writing), and the current week (12-17th Nov inclusive)... Sadly, it reaches a lower altitude each day. It serves as a useful reference point for when each day starts and ends.
 
 <strong>The study</strong><br>
