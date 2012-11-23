@@ -9,6 +9,8 @@ Work
 
 As a member of the Kepler Asteroseismic Science Consortium I use ultra-precise Kepler data to study the A-type stars. In addition to publicly available software, I perform data analysis with my own suite of tools designed specifically for working with Kepler data.
 
+In addition to providing a rough description of what it is I do, this page serves as a useful place to collect all of my research material in one place, so that prospective employers find it easier to give me a job (nudge nudge).
+
 +-- {.section}
 Current Research
 ====
