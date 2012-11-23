@@ -15,8 +15,8 @@ One potential system is date of acquisition. That way, one's collection sort of 
 
 So often is the film choice limited by the time available for film-watching, whether it be pre-dinner, pre-party, or simply pre-snooze. This is why I have adopted the running time order arrangement. If I have 120 minutes available for a film, I find the point corresponding to t=120 mins, and select any film to the left / above that film in the collection.
 
-#The re-arrangement
-The process of rearranging the collection is interesting, if time-consuming. One step of the process is to sort the collection into bins of 10-minute width. This then shows the distribution of running times of modern films (I have very few films made before 1990; notable exceptions are Arnold Schwarzenegger's works and the Back To The Future trilogy). The compacted distribution is shown in Fig. 1, where Lord of the Rings: Return of the King was so much longer than the previous film (a whole half an hour!) that the scale needed a small discontinuity (compaction) there.
+##The re-arrangement
+The process of rearranging the collection is interesting, if time-consuming. One step of the process is to sort the collection into bins of 10-minute width. This then shows the distribution of running times of modern films (I have very few films made before 1990; notable exceptions are Arnold Schwarzenegger's works and the Back To The Future trilogy). The compacted distribution is shown in Fig. 1, where Lord of the Rings: Return of the King was so much longer than the previous film (by half an hour!) that the scale needed a small discontinuity (compaction) there.
 
 <img src="/images/shrunken_dvd_distribution_compressed.JPG" width="480" height="360"><br>
 
