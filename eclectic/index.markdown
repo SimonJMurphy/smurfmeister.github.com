@@ -4,11 +4,10 @@ title: Eclectic
 section: Eclectic
 ---
 
-Outline
+ec.lec.tic
 ========
-
-<strong>ec.lec.tic</strong><br>  (n)     a person who derives ideas, style, or taste from a broad and diverse range of sources.
-            (adj)   selecting what seems best from various styles, doctrines, ideas, methods, etc.
+    (n) a person who derives ideas, style, or taste from a broad and diverse range of sources.
+    (adj)   selecting what seems best from various styles, doctrines, ideas, methods, etc.
 
 I have been described as <q>a few sigma away from normal</q>, but I like it that way. I have a tendency to over-analyse everything, but occasionally this produces rare gems of insight and understanding of the world around us. These analyses most often take from everyday life, such as the [distribution of running times](running-times) of my dvd collection, the [caffeine levels](caffeine) of coffee-addicted astronomers, or the pattern of wear and erosion of steps inside a church.
 
