@@ -18,7 +18,7 @@ So often is the film choice limited by the time available for film-watching, whe
 ##The re-arrangement
 The process of rearranging the collection is interesting, if time-consuming. One step of the process is to sort the collection into bins of 10-minute width. This then shows the distribution of running times of modern films (I have very few films made before 1990; notable exceptions are Arnold Schwarzenegger's works and the Back To The Future trilogy). The compacted distribution is shown in Fig. 1, where Lord of the Rings: Return of the King was so much longer than the previous film (by half an hour!) that the scale needed a small discontinuity (compaction) there.
 
-<img src="/images/shrunken_dvd_distribution_compressed.JPG" alt="running_times_distribution" width="480" height="360">
+<img src="/images/shrunken_dvd_distribution_compressed.jpg" alt="running_times_distribution" width="480" height="360">
 
 <p><strong>Fig. 1</strong>: Distribution of film running times, shortest to the left, showing clear positive skew and a peak at 100-110 minutes. <em>In the background</em>: Rammstein hoody, because Rammstein are awesome.</p>
 
