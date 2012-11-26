@@ -21,8 +21,8 @@ Current Research
 +-- {.section}
 First-author Publications
 ==========
-* [Kepler Fourier concepts: The performance of the Kepler data pipeline](/images/kepler_fourier_concepts.pdf), Murphy (2012b), AN, in press
-* [Pulsational amplitude growth of KIC 3420637 (HD 178875) in the context of Am and rho Puppis stars](/images/kic3429637_v5.pdf), Murphy et al. (2012), arXiv1209.1493
+* [Kepler Fourier concepts: The performance of the Kepler data pipeline](/images/kepler_fourier_concepts.pdf), Murphy (2012b), (AN), 	arXiv:1211.5141 
+* [Pulsational amplitude growth of KIC 3420637 (HD 178875) in the context of Am and rho Puppis stars](/images/kic3429637_v5.pdf), Murphy et al. (2012), (MNRAS), arXiv:1209.1493
 * [Characteristics of Kepler short- and long-cadence data](/images/characteristics.pdf), Murphy (2012a), MNRAS 422, 665
 =--
 
