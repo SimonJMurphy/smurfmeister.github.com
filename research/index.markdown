@@ -22,15 +22,15 @@ Current Research
 First-author Publications
 ==========
 * [Kepler Fourier concepts: The performance of the Kepler data pipeline](/images/kepler_fourier_concepts.pdf), Murphy (2012b), (AN), 	arXiv:1211.5141 
-* [Pulsational amplitude growth of KIC 3420637 (HD 178875) in the context of Am and rho Puppis stars](/images/kic3429637_v5.pdf), Murphy et al. (2012), (MNRAS), arXiv:1209.1493
+* [Pulsational amplitude growth of KIC 3420637 (HD 178875) in the context of Am and rho Puppis stars](/images/kic3429637_v5.pdf), Murphy et al. (2012), MNRAS 427, 1418
 * [Characteristics of Kepler short- and long-cadence data](/images/characteristics.pdf), Murphy (2012a), MNRAS 422, 665
 =--
 
 +-- {.section}
 As co-author
 ==========
-* [Unusual high-frequency oscillations in the Kepler delta Scuti star KIC 4840675](/images/Balona_et_al_2012.pdf), Balona et al. 2012
-* [The Kepler characterization of the variability among A- and F-type stars. I. General overview](/images/Uytterhoeven_et_al_2011.pdf), Uytterhoeven et al. 2011
+* [Unusual high-frequency oscillations in the Kepler delta Scuti star KIC 4840675](/images/Balona_et_al_2012.pdf), Balona et al. (2012), MNRAS 424, 1187
+* [The Kepler characterization of the variability among A- and F-type stars. I. General overview](/images/Uytterhoeven_et_al_2011.pdf), Uytterhoeven et al. (2011), A&A 534, A125
 =--
 
 +-- {.section}
