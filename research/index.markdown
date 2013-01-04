@@ -21,8 +21,9 @@ Current Research
 +-- {.section}
 First-author Publications
 ==========
+* [Super-Nyquist asteroseismology with the Kepler Space Telescope](/images/sNa.pdf), Murphy et al. (2012b), (MNRAS), arXiv:1212.5603
 * [Kepler Fourier concepts: The performance of the Kepler data pipeline](/images/kepler_fourier_concepts.pdf), Murphy (2012b), (AN), 	arXiv:1211.5141 
-* [Pulsational amplitude growth of KIC 3420637 (HD 178875) in the context of Am and rho Puppis stars](/images/kic3429637_v5.pdf), Murphy et al. (2012), MNRAS 427, 1418
+* [Pulsational amplitude growth of KIC 3420637 (HD 178875) in the context of Am and rho Puppis stars](/images/kic3429637_v5.pdf), Murphy et al. (2012a), MNRAS 427, 1418
 * [Characteristics of Kepler short- and long-cadence data](/images/characteristics.pdf), Murphy (2012a), MNRAS 422, 665
 =--
 
