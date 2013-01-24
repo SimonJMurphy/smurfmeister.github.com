@@ -9,7 +9,7 @@ Work
 
 As a member of the Kepler Asteroseismic Science Consortium I use ultra-precise Kepler data to study the A-type stars. In addition to publicly available software, I perform data analysis with my own suite of tools designed specifically for working with Kepler data.
 
-In addition to providing a rough description of what it is I do, this page serves as a useful place to collect all of my research material in one place, so that prospective employers find it easier to give me a job (nudge nudge).
+In addition to providing a rough description of what it is I do, this page serves as a useful place to collect all of my research material in one place, so that prospective employers find it easier to give me a job (nudge nudge). In fact, that is why I've uploaded my [CV](/images/CV_SJM.pdf), too.
 
 +-- {.section}
 Current Research
@@ -17,6 +17,8 @@ Current Research
 * Investigating the chemically peculiar stars in the delta Scuti instability strip; and
 * Case studies of individual delta Scuti stars.
 =--
+
+You may also like to take a look at this short (300-word) [research summary](/images/reserach_summary.pdf).
 
 +-- {.section}
 First-author Publications
@@ -26,6 +28,8 @@ First-author Publications
 * [Pulsational amplitude growth of KIC 3420637 (HD 178875) in the context of Am and rho Puppis stars](/images/KIC3429637.pdf), Murphy et al. (2012a), MNRAS 427, 1418
 * [Characteristics of Kepler short- and long-cadence data](/images/characteristics.pdf), Murphy (2012a), MNRAS 422, 665
 =--
+
+Here is a full list of [publications, conferences attended and contributions made](/images/publications_conferences_contributions.pdf).
 
 +-- {.section}
 As co-author
