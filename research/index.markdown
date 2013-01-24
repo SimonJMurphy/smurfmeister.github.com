@@ -16,9 +16,9 @@ Current Research
 ====
 * Investigating the chemically peculiar stars in the delta Scuti instability strip; and
 * Case studies of individual delta Scuti stars.
+=--
 
 You may also like to take a look at this short (300-word) [research summary](/images/reserach_summary.pdf).
-=--
 
 +-- {.section}
 First-author Publications
@@ -27,9 +27,9 @@ First-author Publications
 * [Kepler Fourier concepts: The performance of the Kepler data pipeline](/images/kepler_fourier_concepts.pdf), Murphy (2012b), (AN), 	arXiv:1211.5141 
 * [Pulsational amplitude growth of KIC 3420637 (HD 178875) in the context of Am and rho Puppis stars](/images/KIC3429637.pdf), Murphy et al. (2012a), MNRAS 427, 1418
 * [Characteristics of Kepler short- and long-cadence data](/images/characteristics.pdf), Murphy (2012a), MNRAS 422, 665
+=--
 
 Here is a full list of [publications, conferences attended and contributions made](/images/publications_conferences_contributions.pdf).
-=--
 
 +-- {.section}
 As co-author
