@@ -18,7 +18,7 @@ Current Research
 * Case studies of individual delta Scuti stars.
 =--
 
-You may also like to take a look at this short (300-word) [research summary](/images/reserach_summary.pdf).
+You may also like to take a look at this short (300-word) [research summary](/images/research_summary.pdf).
 
 +-- {.section}
 First-author Publications
