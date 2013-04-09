@@ -9,7 +9,7 @@ Work
 
 As a member of the Kepler Asteroseismic Science Consortium I use ultra-precise Kepler data to study the A-type stars. In addition to publicly available software, I perform data analysis with my own suite of tools designed specifically for working with Kepler data.
 
-In addition to providing a rough description of what it is I do, this page serves as a useful place to collect all of my research material in one place, so that prospective employers find it easier to give me a job (nudge nudge). In fact, that is why I've uploaded my [CV](/images/CV_SJM.pdf), too.
+As well as providing a rough description of what it is I do, this page serves as a useful place to collect all of my research material in one place, so that prospective employers find it easier to give me a job (nudge nudge). In fact, that is why I've uploaded my [CV](/images/CV_SJM.pdf), too.
 
 +-- {.section}
 Current Research
@@ -23,9 +23,10 @@ You may also like to take a look at this short (300-word) [research summary](/im
 +-- {.section}
 First-author Publications
 ==========
-* [Super-Nyquist asteroseismology with the Kepler Space Telescope](/images/sNa.pdf), Murphy et al. (2012b), (MNRAS), arXiv:1212.5603
+* [Asteroseismology of KIC 11754974: a high-amplitude SX Phe pulsator in a 343-day binary system](/images/11754974_paper.pdf), Murphy et al. (2013b), (MNRAS), arXiv:1304.1543
+* [Super-Nyquist asteroseismology with the Kepler Space Telescope](/images/sNa.pdf), Murphy et al. (2013a), MNRAS, 430, 2986
 * [Kepler Fourier concepts: The performance of the Kepler data pipeline](/images/kepler_fourier_concepts.pdf), Murphy (2012b), (AN), 	arXiv:1211.5141 
-* [Pulsational amplitude growth of KIC 3420637 (HD 178875) in the context of Am and rho Puppis stars](/images/KIC3429637.pdf), Murphy et al. (2012a), MNRAS 427, 1418
+* [Pulsational amplitude growth of KIC 3420637 (HD 178875) in the context of Am and rho Puppis stars](/images/KIC3429637.pdf), Murphy et al. (2012), MNRAS 427, 1418
 * [Characteristics of Kepler short- and long-cadence data](/images/characteristics.pdf), Murphy (2012a), MNRAS 422, 665
 =--
 
