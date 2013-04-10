@@ -25,7 +25,7 @@ First-author Publications
 ==========
 * [Asteroseismology of KIC 11754974: a high-amplitude SX Phe pulsator in a 343-day binary system](/images/11754974_paper.pdf), Murphy et al. (2013b), (MNRAS), arXiv:1304.1543
 * [Super-Nyquist asteroseismology with the Kepler Space Telescope](/images/sNa.pdf), Murphy et al. (2013a), MNRAS, 430, 2986
-* [Kepler Fourier concepts: The performance of the Kepler data pipeline](/images/kepler_fourier_concepts.pdf), Murphy (2012b), (AN), 	arXiv:1211.5141 
+* [Kepler Fourier concepts: The performance of the Kepler data pipeline](/images/kepler_fourier_concepts.pdf), Murphy (2012b), AN, 333, 1057, (arXiv:1211.5141)
 * [Pulsational amplitude growth of KIC 3420637 (HD 178875) in the context of Am and rho Puppis stars](/images/KIC3429637.pdf), Murphy et al. (2012), MNRAS 427, 1418
 * [Characteristics of Kepler short- and long-cadence data](/images/characteristics.pdf), Murphy (2012a), MNRAS 422, 665
 =--
