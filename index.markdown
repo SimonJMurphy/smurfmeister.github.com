@@ -30,6 +30,6 @@ Previous publications are collected under the [Research](/research) tab on the t
 Hobbies
 =======
 
-Everyone needs a good hobby, or several. I enjoy many of the usual hobbies of males in their mid-twenties: football, hiking, skiing, running, cycling, board games, computer games and films. For a better insight into the functioning of my mind and the stuff I get up to, you may like to visit the [Eclectic section](/eclectic) of my website :-)
+Everyone needs a good hobby, or several. I enjoy many of the usual hobbies of males in their mid-twenties, with a propensity towards those with greater chances of causing injury (apparently!): climbing, cycling, snowboarding, hiking, football and running; but also board games, computer games and films. For a better insight into the functioning of my mind and the stuff I get up to, you may like to visit the [Eclectic section](/eclectic) of my website :-)
 
 =--
