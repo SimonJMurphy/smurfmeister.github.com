@@ -19,8 +19,9 @@ Research
 
 Ongoing projects include:
 
-* Investigating the chemically peculiar stars in the delta Scuti instability strip; and
-* Case studies of individual delta Scuti stars.
+* Investigating the chemically peculiar stars in the delta Scuti instability strip;
+* Case studies of individual delta Scuti stars; and
+* Extending the number of known lambda Bootis stars.
 =--
 
 Previous publications are collected under the [Research](/research) tab on the top-right of the page.
