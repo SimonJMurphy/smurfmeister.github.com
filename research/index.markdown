@@ -34,7 +34,7 @@ First-author Publications
 
 <small><sup>*</sup>The publisher introduced some errors into the manuscript, and so an <a href="http://simonmurphy.info/images/erratum_11754974.pdf">erratum</a> was published.</small>
 
-Here is a full list of [publications, conferences attended and contributions made](/images/publications_conferences_contributions.pdf).
+Here is a full list of [publications, conferences attended and presentations given](/images/publications_conferences_contributions.pdf).
 
 +-- {.section}
 As co-author
