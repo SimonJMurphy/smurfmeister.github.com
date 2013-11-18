@@ -33,7 +33,7 @@ First-author Publications
 =--
 
 Here is a full list of [publications, conferences attended and contributions made](/images/publications_conferences_contributions.pdf).
-<p style="font-size:smaller;"><sup>*</sup>The publisher introduced some errors into the manuscript, and so an [erratum](/images/erratum_11754974.pdf) was published.</p>
+<small><sup>*</sup>The publisher introduced some errors into the manuscript, and so an [erratum](/images/erratum_11754974.pdf) was published.</small>
 
 +-- {.section}
 As co-author
