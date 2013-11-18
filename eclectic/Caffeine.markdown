@@ -9,7 +9,7 @@ Caffeine Addiction
 
 It is common knowledge among my friends that I have a slight addiction to Red Bull (or equivalent energy drink). I have it under control -- only one per day, and only on work days. I enjoy it and I consider it a daily treat. You may have your own. It is an addiction that carries with it a certain stigma. I notice, however, that coffee does not have the same stigma, and I'm even shunned for <em>not</em> drinking coffee. So I took it upon myself to compare habits.
 
-<img src="/images/caffeine_plot.png" width="600" height="300"><br>
+<img src="/images/caffeine_plot.png" width="600" height="300">
 
 ##The plot
 
@@ -29,6 +29,6 @@ Caffeine intoxication - the point where a person begins to feel seriously messed
 ##The conclusions
 
 * My Red Bull habit is pretty mild.
-* Perhaps some money could be made in converting this into an app, where users log their caffeine intake. Could use Starbucks as a sponsor for some advertising revenue :-)
+* Perhaps some money could be made in converting this into an app, where users log their caffeine intake. Could use Starbucks as a sponsor for some advertising revenue :)
 
 Ironically, I did this work whilst not under the influence of Red Bull. Put it down to withdrawal symptoms.
