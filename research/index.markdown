@@ -25,7 +25,7 @@ You may also like to take a look at the video of a [public talk](http://vimeo.co
 +-- {.section}
 First-author Publications
 ==========
-* [Asteroseismology of KIC 11754974: a high-amplitude SX Phe pulsator in a 343-day binary system](/images/11754974_paper.pdf), Murphy et al. (2013b), MNRAS, 432, 2284
+* [Asteroseismology of KIC 11754974: a high-amplitude SX Phe pulsator in a 343-day binary system](/images/11754974_paper.pdf), Murphy et al. (2013b), MNRAS, 432, 2284<sup>*</sup>
 * [Super-Nyquist asteroseismology with the Kepler Space Telescope](/images/sNa.pdf), Murphy et al. (2013a), MNRAS, 430, 2986
 * [Kepler Fourier concepts: The performance of the Kepler data pipeline](/images/kepler_fourier_concepts.pdf), Murphy (2012b), AN, 333, 1057, (arXiv:1211.5141)
 * [Pulsational amplitude growth of KIC 3420637 (HD 178875) in the context of Am and rho Puppis stars](/images/KIC3429637.pdf), Murphy et al. (2012), MNRAS 427, 1418
@@ -33,6 +33,7 @@ First-author Publications
 =--
 
 Here is a full list of [publications, conferences attended and contributions made](/images/publications_conferences_contributions.pdf).
+<p style="font-size:smaller;"><sup>*</sup>The publisher introduced some errors into the manuscript, and so an [erratum](/images/erratum_11754974.pdf) was published.</p>
 
 +-- {.section}
 As co-author
