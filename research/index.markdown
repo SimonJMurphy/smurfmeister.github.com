@@ -32,7 +32,7 @@ First-author Publications
 * [Characteristics of Kepler short- and long-cadence data](/images/characteristics.pdf), Murphy (2012a), MNRAS 422, 665
 =--
 
-<small><sup>*</sup>The publisher introduced some errors into the manuscript, and so an [erratum](/images/erratum_11754974.pdf) was published.</small>
+<small><sup>*</sup>The publisher introduced some errors into the manuscript, and so an <a href="http://simonmurphy.info/images/erratum_11754974.pdf">erratum</a> was published.</small>
 
 Here is a full list of [publications, conferences attended and contributions made](/images/publications_conferences_contributions.pdf).
 
