@@ -11,7 +11,7 @@ keywords: Simon Murphy, Astronomy, Astrophysics, Asteroseismology, Kepler, Jerem
 Welcome
 =======
 
-I’m Simon Murphy, a postdoctoral researcher at the University of Sydney. I use data from the Kepler Space Telescope to investigate A-type stars using a technique called asteroseismology. I also conduct spectral classification of A-type stars, with a keen interest in Am and lambda Boo peculiarities.
+I’m Simon Murphy, a postdoctoral researcher at the University of Sydney. I use data from the Kepler Space Telescope to investigate A-type stars using a technique called asteroseismology. I also conduct spectral classification of A-type stars, with a keen interest in Am and &lambda Boo peculiarities.
 
 +-- {.section}
 Research
@@ -22,7 +22,7 @@ Ongoing projects include:
 * Investigating the chemically peculiar stars in and around the delta Scuti instability strip;
 * Developing the MK process for spectral classification;
 * Case studies of individual delta Scuti stars; and
-* Extending the number of known lambda Bootis stars.
+* Extending the number of known &lambda Bootis stars.
 =--
 
 Previous publications are collected under the [Research](/research) tab on the top-right of the page.
