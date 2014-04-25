@@ -1,0 +1,100 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <title>Eclectic &larr; Simon Murphy</title>
+    <meta name="author" content="Simon Murphy" />
+
+    <link rel="start" href="/" />
+
+    
+
+     <!-- syntax highlighting CSS -->
+     <link rel="stylesheet" href="/files/css/syntax.css" type="text/css" />
+
+     <!-- Homepage CSS -->
+     <link rel="stylesheet" href="/files/css/screen.css" type="text/css" />
+
+     <script src="http://widgets.twimg.com/j/2/widget.js"></script>
+
+     <script type="text/javascript">
+
+       var _gaq = _gaq || [];
+       _gaq.push(['_setAccount', 'UA-30960531-1']);
+       _gaq.push(['_trackPageview']);
+
+       (function() {
+         var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+         ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+         var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+       })();
+
+     </script>
+
+  </head>
+
+  <body id="Caffeine">
+    <div id="site">
+
+      <div id="header">
+        <h1>
+          <a href="/" title="My Personal Site">Simon Murphy</a>
+        </h1>
+        <ul class="nav">
+          <li><a class="home" href="/">Home</a></li>
+          <li><a class="research" href="/research">Research</a></li>
+          <li><a class="eclectic" href="/eclectic">Eclectic</a></li>
+        </ul>
+      </div>
+
+      <div id="page">
+        <h1 id='caffeine_addiction'>Caffeine Addiction</h1>
+
+<p>It is common knowledge among my friends that I have a slight addiction to Red Bull (or equivalent energy drink). I have it under control &#8211; only one per day, and only on work days. I enjoy it and I consider it a daily treat. You may have your own. It is an addiction that carries with it a certain stigma. I notice, however, that coffee does not have the same stigma, and I&#8217;m even shunned for <em>not</em> drinking coffee. So I took it upon myself to compare habits.</p>
+<img height='300' src='/images/caffeine_plot.png' width='600' />
+<h2 id='the_plot'>The plot</h2>
+
+<p>The above is a plot showing the caffeine level in the body as a function of time, based on two models (explained below in &#8216;The study&#8217;). The coffee+choc model obviously has much higher intake, but the caffeine is not completely metabolised before the next day when the 10:30 coffee is taken. This is why I had to extend the plot to cover saturday.</p>
+
+<p>Just for fun, I also decided to plot the altitude of the Sun, calculated for latitude 40&#176; N (Porto &#8211; my city of residence at the time of writing), and the current week (12-17th Nov inclusive)&#8230; Sadly, it reaches a lower altitude each day. It serves as a useful reference point for when each day starts and ends.</p>
+
+<h2 id='the_study'>The study</h2>
+
+<p>I decided to study the caffeine level in the body of (a) a Red Bull addict who has, in this scenario, one can of Red Bull (or substitute) once per day. It was chosen in the scenario to combat the post-lunch dip, delivering 80mg of caffeine at 1pm. This is the same amount of caffeine as a 150ml cup of brewed coffee (though <a href='http://www.coffee.org/articles/index.php?art=182'>strengths do vary somewhat</a>). I call this the Red Bull model of caffeine intake. Scenario (b) is the coffee addict. My coffee addict has three cups of coffee, 150mg caffeine per cup, at 10:30, 11:00 and 14:30. My coffee addict also likes a bit of chocolate in the evenings, consuming 70mg of caffeine in the process, at 20:00. This is the coffee-choc model. 150mg caffeine per cup is a bit high, but astronomers seem to <a href='http://io9.com/5948206/here-are-the-fifteen-professions-that-drink-the-most-coffee-guess-whos-number-one'>drink more / stronger coffee</a> than other professions.</p>
+
+<h2 id='the_mathematics'>The mathematics</h2>
+
+<p>From a <a href='http://www.ncbi.nlm.nih.gov/pubmed/11839447'>study</a> of rate of absorption in caffeinated gum vs. caffeine capsules, which shows a peak caffeine level after 44.2&#8211;80.4 min for gum vs. 84.0&#8211;120.0 for capsules, I assumed that total caffeine absorption occurs after 90 minutes of ingestion (i.e. with a 100% absorption efficiency), with a linear absorption rate between the time of ingestion and the 90-minute limit. Metabolism (with half-life 4.9 hours) begins 0.1 hours after ingestion. Caffeine intoxication - the point where a person begins to feel seriously messed up with jitters etc. - occurs at around 300 mg.</p>
+
+<h2 id='the_conclusions'>The conclusions</h2>
+
+<ul>
+<li>My Red Bull habit is pretty mild.</li>
+
+<li>Perhaps some money could be made in converting this into an app, where users log their caffeine intake. Could use Starbucks as a sponsor for some advertising revenue :)</li>
+</ul>
+
+<p>Ironically, I did this work whilst not under the influence of Red Bull. Put it down to withdrawal symptoms.</p>
+      </div>
+
+      <div id="footer">
+        <address>
+          <span class="copyright">
+            Content by
+            <a href="/info/site.html">Simon Murphy</a>
+            <br/>
+            Design by
+            <a href="http://mark.reid.name">Mark Reid</a>
+            (<a rel="licence" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Some rights reserved</a>)
+          </span>
+          <span class="engine">
+            Powered by
+            <a href="https://github.com/mojombo/jekyll" title="A static, minimalist CMS">Jekyll</a>
+          </span>
+        </address>
+      </div>
+    </div>
+  </body>
+</html>
