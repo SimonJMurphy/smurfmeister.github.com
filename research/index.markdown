@@ -14,6 +14,7 @@ As well as providing a rough description of what it is I do, this page serves as
 +-- {.section}
 Current Research
 ====
+* Finding binaries among pulsating stars;
 * Investigating the chemically peculiar stars in and around the delta Scuti instability strip;
 * Developing the MK process for spectral classification;
 * Case studies of individual delta Scuti stars; and
