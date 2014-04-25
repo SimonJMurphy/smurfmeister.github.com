@@ -7,7 +7,7 @@ section: Research
 Work
 ========
 
-As a member of the Kepler Asteroseismic Science Consortium I use ultra-precise Kepler data to study the A-type stars. In addition to publicly available software, I perform data analysis with my own suite of tools designed specifically for working with Kepler data.
+As a member of the Kepler Asteroseismic Science Consortium, and chair of the time-series analysis sub-group of the classical pulsators working group, I use ultra-precise Kepler data to study the A-type stars. In addition to publicly available software, I perform data analysis with my own suite of tools designed specifically for working with Kepler data.
 
 As well as providing a rough description of what it is I do, this page serves as a useful place to collect all of my research material in one place, so that prospective employers find it easier to give me a job (nudge nudge). In fact, that is why I've uploaded my [CV](/images/CV_SJM.pdf), too.
 
