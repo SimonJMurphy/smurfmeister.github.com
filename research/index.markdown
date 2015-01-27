@@ -14,7 +14,7 @@ As well as providing a rough description of what it is I do, this page serves as
 Current Research
 ================
 * Finding binaries among pulsating stars;
-* Investigating the chemically peculiar stars in and around the delta Scuti instability strip;
+* Chemically peculiar stars in and around the delta Scuti instability strip;
 * Developing the MK process for spectral classification;
 * Case studies of individual delta Scuti stars; and
 * Extending the number of known &lambda; Bootis stars.
@@ -23,6 +23,9 @@ You may also like to take a look at the video of a [public talk](http://vimeo.co
 
 First-author Publications
 =========================
+* [A search for non-pulsating, chemically normal stars in the
+delta Scuti instability strip using Kepler data](/images/non-pulsators.pdf), Murphy et al. (2015), MNRAS (arXiv:1412.7543)
+* [Investigating the A-Type Stars Using Kepler Data](http://www.springer.com/astronomy/astrophysics+and+astroparticles/book/978-3-319-09416-8), Murphy (2014), PhD thesis published by Springer.
 * [Finding binaries among Kepler pulsating stars from phase modulation of their pulsations](/images/PM.pdf), Murphy et al. (2014), MNRAS, 441, 2515.
     There is also an [astrobite article](http://astrobites.org/2014/05/05/binary-hunting-with-phase-variations/) about this paper.
 * [Asteroseismology of KIC 11754974: a high-amplitude SX Phe pulsator in a 343-day binary system](/images/11754974_paper.pdf), Murphy et al. (2013b), MNRAS, 432, 2284<sup>\*</sup>
@@ -37,6 +40,12 @@ Here is a full list of [publications, conferences attended and presentations giv
 
 As co-author
 ============
+* [Asteroseismic measurement of slow, nearly uniform surface-to-core rotation in the main-sequence F star KIC 9244992](/images/kic9244992.pdf), Saio et al. (2015), MNRAS 447, 3264
+* [Validation of the frequency modulation technique applied to the pulsating δ Sct-γ Dor eclipsing binary star KIC 8569819](/images/validation_FM.pdf), Kurtz et al. (2015), MNRAS 446,     1223
+* [The Role of Turbulent Pressure as a Coherent Pulsational Driving Mechanism: The Case of the delta Scuti Star HD 187547](/images/turbulent_pressure.pdf), Antoci et al. (2014), ApJ 796, 188
+* [Echelle diagrams and period spacings of g modes in gamma Doradus stars from four years of Kepler observations](/images/gmode_echelle.pdf), Bedding et al. (2014), arXiv1411.1883
+* [Asteroseismic measurement of surface-to-core rotation in a
+main-sequence A star, KIC 11145123](/images/kic11145123.pdf), Kurtz et al. (2014), MNRAS 444, 102
 * [Unusual high-frequency oscillations in the Kepler delta Scuti star KIC 4840675](/images/Balona_et_al_2012.pdf), Balona et al. (2012), MNRAS 424, 1187
 * [The Kepler characterization of the variability among A- and F-type stars. I. General overview](/images/Uytterhoeven_et_al_2011.pdf), Uytterhoeven et al. (2011), A&A 534, A125
 
