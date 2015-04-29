@@ -23,8 +23,8 @@ You may also like to take a look at the video of a [public talk](http://vimeo.co
 
 First-author Publications
 =========================
-* [A search for non-pulsating, chemically normal stars in the
-delta Scuti instability strip using Kepler data](/images/non-pulsators.pdf), Murphy et al. (2015), MNRAS (arXiv:1412.7543)
+* [Deriving the orbital properties of pulsators in binary systems through their light arrival time delays](/images/PM2.pdf), Murphy & Shibahashi (2015), MNRAS (arxiv:1504.05098)
+* [A search for non-pulsating, chemically normal stars in the delta Scuti instability strip using Kepler data](/images/non-pulsators.pdf), Murphy et al. (2015), MNRAS 447, 3948
 * [Investigating the A-Type Stars Using Kepler Data](http://www.springer.com/astronomy/astrophysics+and+astroparticles/book/978-3-319-09416-8), Murphy (2014), PhD thesis published by Springer.
 * [Finding binaries among Kepler pulsating stars from phase modulation of their pulsations](/images/PM.pdf), Murphy et al. (2014), MNRAS, 441, 2515.
     There is also an [astrobite article](http://astrobites.org/2014/05/05/binary-hunting-with-phase-variations/) about this paper.
@@ -40,8 +40,11 @@ Here is a full list of [publications, conferences attended and presentations giv
 
 As co-author
 ============
+* [FM stars II: a Fourier view of pulsating binary stars -- determining binary orbital parameters photometrically for highly eccentric cases](/images/FM2.pdf), Shibahashi et al. (2015), MNRAS (arxiv:1504.05092)
+* [A unifying explanation of complex frequency spectra of gamma Dor, SPB and Be stars: combination frequencies and highly non-sinusoidal light curves](/images/gmode_combinations.pdf), Kurtz et al. (2015), MNRAS (arxiv:1504.04245)
+* [Spectroscopic survey of Kepler stars. I. HERMES/Mercator observations of A- and F-type stars](/images/hermes_AF_stars.pdf), Niemczura et al. (2015), MNRAS (arxiv:1503.03675)
 * [Asteroseismic measurement of slow, nearly uniform surface-to-core rotation in the main-sequence F star KIC 9244992](/images/kic9244992.pdf), Saio et al. (2015), MNRAS 447, 3264
-* [Validation of the frequency modulation technique applied to the pulsating δ Sct-γ Dor eclipsing binary star KIC 8569819](/images/validation_FM.pdf), Kurtz et al. (2015), MNRAS 446,     1223
+* [Validation of the frequency modulation technique applied to the pulsating δ Sct-γ Dor eclipsing binary star KIC 8569819](/images/validation_FM.pdf), Kurtz et al. (2015), MNRAS 446, 1223
 * [The Role of Turbulent Pressure as a Coherent Pulsational Driving Mechanism: The Case of the delta Scuti Star HD 187547](/images/turbulent_pressure.pdf), Antoci et al. (2014), ApJ 796, 188
 * [Echelle diagrams and period spacings of g modes in gamma Doradus stars from four years of Kepler observations](/images/gmode_echelle.pdf), Bedding et al. (2014), arXiv1411.1883
 * [Asteroseismic measurement of surface-to-core rotation in a
