@@ -23,14 +23,16 @@ You may also like to take a look at the video of a [public talk](http://vimeo.co
 
 First-author Publications
 =========================
-* [Deriving the orbital properties of pulsators in binary systems through their light arrival time delays](/images/PM2.pdf), Murphy & Shibahashi (2015), MNRAS (arxiv:1504.05098)
-* [A search for non-pulsating, chemically normal stars in the delta Scuti instability strip using Kepler data](/images/non-pulsators.pdf), Murphy et al. (2015), MNRAS 447, 3948
+* [An evaluation of the membership probability of 212 lambda Boo stars: I. A Catalogue.](/images/lambda_boo_catalogue.pdf), Murphy et al. (2015b), MNRAS (accepted), arxiv:1508.03633
+* [The potential for super-Nyquist asteroseismology with TESS](/images/tess_sampling.pdf), Murphy (2015), MNRAS (accepted), arxiv:1508.02717
+* [Deriving the orbital properties of pulsators in binary systems through their light arrival time delays](/images/PM2.pdf), Murphy & Shibahashi (2015), MNRAS, 450, 4475
+* [A search for non-pulsating, chemically normal stars in the delta Scuti instability strip using Kepler data](/images/non-pulsators.pdf), Murphy et al. (2015a), MNRAS 447, 3948
 * [Investigating the A-Type Stars Using Kepler Data](http://www.springer.com/astronomy/astrophysics+and+astroparticles/book/978-3-319-09416-8), Murphy (2014), PhD thesis published by Springer.
 * [Finding binaries among Kepler pulsating stars from phase modulation of their pulsations](/images/PM.pdf), Murphy et al. (2014), MNRAS, 441, 2515.
     There is also an [astrobite article](http://astrobites.org/2014/05/05/binary-hunting-with-phase-variations/) about this paper.
 * [Asteroseismology of KIC 11754974: a high-amplitude SX Phe pulsator in a 343-day binary system](/images/11754974_paper.pdf), Murphy et al. (2013b), MNRAS, 432, 2284<sup>\*</sup>
 * [Super-Nyquist asteroseismology with the Kepler Space Telescope](/images/sNa.pdf), Murphy et al. (2013a), MNRAS, 430, 2986
-* [Kepler Fourier concepts: The performance of the Kepler data pipeline](/images/kepler_fourier_concepts.pdf), Murphy (2012b), AN, 333, 1057, (arXiv:1211.5141)
+* [Kepler Fourier concepts: The performance of the Kepler data pipeline](/images/kepler_fourier_concepts.pdf), Murphy (2012b), AN, 333, 1057
 * [Pulsational amplitude growth of KIC 3420637 (HD 178875) in the context of Am and rho Puppis stars](/images/KIC3429637.pdf), Murphy et al. (2012), MNRAS 427, 1418
 * [Characteristics of Kepler short- and long-cadence data](/images/characteristics.pdf), Murphy (2012a), MNRAS 422, 665
 
