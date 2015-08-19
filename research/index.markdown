@@ -42,9 +42,10 @@ Here is a full list of [publications, conferences attended and presentations giv
 
 As co-author
 ============
-* [FM stars II: a Fourier view of pulsating binary stars -- determining binary orbital parameters photometrically for highly eccentric cases](/images/FM2.pdf), Shibahashi et al. (2015), MNRAS (arxiv:1504.05092)
-* [A unifying explanation of complex frequency spectra of gamma Dor, SPB and Be stars: combination frequencies and highly non-sinusoidal light curves](/images/gmode_combinations.pdf), Kurtz et al. (2015), MNRAS (arxiv:1504.04245)
-* [Spectroscopic survey of Kepler stars. I. HERMES/Mercator observations of A- and F-type stars](/images/hermes_AF_stars.pdf), Niemczura et al. (2015), MNRAS (arxiv:1503.03675)
+* [KIC 4768731: a bright long-period roAp star in the Kepler field](/images/kic4768731.pdf), Smalley et al. (2015), MNRAS, 452, 3334
+* [FM stars II: a Fourier view of pulsating binary stars -- determining binary orbital parameters photometrically for highly eccentric cases](/images/FM2.pdf), Shibahashi et al. (2015), MNRAS, 450, 3999
+* [A unifying explanation of complex frequency spectra of gamma Dor, SPB and Be stars: combination frequencies and highly non-sinusoidal light curves](/images/gmode_combinations.pdf), Kurtz et al. (2015), MNRAS, 450, 3015
+* [Spectroscopic survey of Kepler stars. I. HERMES/Mercator observations of A- and F-type stars](/images/hermes_AF_stars.pdf), Niemczura et al. (2015), MNRAS, 450, 2764
 * [Asteroseismic measurement of slow, nearly uniform surface-to-core rotation in the main-sequence F star KIC 9244992](/images/kic9244992.pdf), Saio et al. (2015), MNRAS 447, 3264
 * [Validation of the frequency modulation technique applied to the pulsating δ Sct-γ Dor eclipsing binary star KIC 8569819](/images/validation_FM.pdf), Kurtz et al. (2015), MNRAS 446, 1223
 * [The Role of Turbulent Pressure as a Coherent Pulsational Driving Mechanism: The Case of the delta Scuti Star HD 187547](/images/turbulent_pressure.pdf), Antoci et al. (2014), ApJ 796, 188
