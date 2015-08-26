@@ -23,7 +23,7 @@ You may also like to take a look at the video of a [public talk](http://vimeo.co
 
 First-author Publications
 =========================
-* [An evaluation of the membership probability of 212 lambda Boo stars: I. A Catalogue.](/images/lambda_boo_catalogue.pdf), Murphy et al. (2015b), MNRAS (accepted), arxiv:1508.03633
+* [An evaluation of the membership probability of 212 lambda Boo stars: I. A Catalogue.](/images/lambda_boo_catalogue.pdf), Murphy et al. (2015b), PASA (accepted), arxiv:1508.03633
 * [The potential for super-Nyquist asteroseismology with TESS](/images/tess_sampling.pdf), Murphy (2015), MNRAS (accepted), arxiv:1508.02717
 * [Deriving the orbital properties of pulsators in binary systems through their light arrival time delays](/images/PM2.pdf), Murphy & Shibahashi (2015), MNRAS, 450, 4475
 * [A search for non-pulsating, chemically normal stars in the delta Scuti instability strip using Kepler data](/images/non-pulsators.pdf), Murphy et al. (2015a), MNRAS 447, 3948
