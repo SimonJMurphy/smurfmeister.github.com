@@ -24,7 +24,7 @@ You may also like to take a look at the video of a [public talk](http://vimeo.co
 First-author Publications
 =========================
 * [An evaluation of the membership probability of 212 lambda Boo stars: I. A Catalogue.](/images/lambda_boo_catalogue.pdf), Murphy et al. (2015b), PASA (accepted), arxiv:1508.03633
-* [The potential for super-Nyquist asteroseismology with TESS](/images/tess_sampling.pdf), Murphy (2015), MNRAS (accepted), arxiv:1508.02717
+* [The potential for super-Nyquist asteroseismology with TESS](/images/tess_sampling.pdf), Murphy (2015), MNRAS, 453, 2569
 * [Deriving the orbital properties of pulsators in binary systems through their light arrival time delays](/images/PM2.pdf), Murphy & Shibahashi (2015), MNRAS, 450, 4475
 * [A search for non-pulsating, chemically normal stars in the delta Scuti instability strip using Kepler data](/images/non-pulsators.pdf), Murphy et al. (2015a), MNRAS 447, 3948
 * [Investigating the A-Type Stars Using Kepler Data](http://www.springer.com/astronomy/astrophysics+and+astroparticles/book/978-3-319-09416-8), Murphy (2014), PhD thesis published by Springer.
@@ -42,6 +42,10 @@ Here is a full list of [publications, conferences attended and presentations giv
 
 As co-author
 ============
+* KIC 10080943: A binary star with two gamma Doradus / delta Scuti hybrid pulsators. Analysis of
+the g modes, Keen et al. (2015), MNRAS (in review)
+* KIC 10080943: An eccentric binary system containing two pressure and gravity mode hybrid
+pulsators, Schmid et al. (2015), A&A (accepted)
 * [KIC 4768731: a bright long-period roAp star in the Kepler field](/images/kic4768731.pdf), Smalley et al. (2015), MNRAS, 452, 3334
 * [FM stars II: a Fourier view of pulsating binary stars -- determining binary orbital parameters photometrically for highly eccentric cases](/images/FM2.pdf), Shibahashi et al. (2015), MNRAS, 450, 3999
 * [A unifying explanation of complex frequency spectra of gamma Dor, SPB and Be stars: combination frequencies and highly non-sinusoidal light curves](/images/gmode_combinations.pdf), Kurtz et al. (2015), MNRAS, 450, 3015
