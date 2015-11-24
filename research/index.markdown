@@ -23,10 +23,10 @@ You may also like to take a look at the video of a [public talk](http://vimeo.co
 
 First-author Publications
 =========================
-* [An evaluation of the membership probability of 212 lambda Boo stars: I. A Catalogue.](/images/lambda_boo_catalogue.pdf), Murphy et al. (2015b), PASA (accepted), arxiv:1508.03633
+* [An evaluation of the membership probability of 212 lambda Boo stars: I. A Catalogue.](/images/lambda_boo_catalogue.pdf), Murphy et al. (2015b), PASA, 32, 36
 * [The potential for super-Nyquist asteroseismology with TESS](/images/tess_sampling.pdf), Murphy (2015), MNRAS, 453, 2569
 * [Deriving the orbital properties of pulsators in binary systems through their light arrival time delays](/images/PM2.pdf), Murphy & Shibahashi (2015), MNRAS, 450, 4475
-* [A search for non-pulsating, chemically normal stars in the delta Scuti instability strip using Kepler data](/images/non-pulsators.pdf), Murphy et al. (2015a), MNRAS 447, 3948
+* [A search for non-pulsating, chemically normal stars in the delta Scuti instability strip using Kepler data](/images/non-pulsators.pdf), Murphy et al. (2015a), MNRAS, 447, 3948
 * [Investigating the A-Type Stars Using Kepler Data](http://www.springer.com/astronomy/astrophysics+and+astroparticles/book/978-3-319-09416-8), Murphy (2014), PhD thesis published by Springer.
 * [Finding binaries among Kepler pulsating stars from phase modulation of their pulsations](/images/PM.pdf), Murphy et al. (2014), MNRAS, 441, 2515.
     There is also an [astrobite article](http://astrobites.org/2014/05/05/binary-hunting-with-phase-variations/) about this paper.
