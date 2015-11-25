@@ -42,10 +42,11 @@ Here is a full list of [publications, conferences attended and presentations giv
 
 As co-author
 ============
-* KIC 10080943: A binary star with two gamma Doradus / delta Scuti hybrid pulsators. Analysis of
-the g modes, Keen et al. (2015), MNRAS (in review)
-* KIC 10080943: An eccentric binary system containing two pressure and gravity mode hybrid
-pulsators, Schmid et al. (2015), A&A (accepted)
+* [Photometry of very bright stars with Kepler and K2 smear data](smear.pdf), Pope et al. (2016), MNRAS, 455, 36
+* [KIC 10080943: A binary star with two gamma Doradus / delta Scuti hybrid pulsators. Analysis of
+the g modes](/images/kic10080943_keen.pdf), Keen et al. (2015), MNRAS, 454, 1792
+* [KIC 10080943: An eccentric binary system containing two pressure and gravity mode hybrid
+pulsators](/images/kic10080943_schmid.pdf), Schmid et al. (2015), A&A, 584, 35
 * [KIC 4768731: a bright long-period roAp star in the Kepler field](/images/kic4768731.pdf), Smalley et al. (2015), MNRAS, 452, 3334
 * [FM stars II: a Fourier view of pulsating binary stars -- determining binary orbital parameters photometrically for highly eccentric cases](/images/FM2.pdf), Shibahashi et al. (2015), MNRAS, 450, 3999
 * [A unifying explanation of complex frequency spectra of gamma Dor, SPB and Be stars: combination frequencies and highly non-sinusoidal light curves](/images/gmode_combinations.pdf), Kurtz et al. (2015), MNRAS, 450, 3015
