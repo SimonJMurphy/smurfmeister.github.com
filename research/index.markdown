@@ -52,9 +52,8 @@ As co-author
 * [Asteroseismic measurement of slow, nearly uniform surface-to-core rotation in the main-sequence F star KIC 9244992](/images/kic9244992.pdf), Saio et al. (2015), MNRAS 447, 3264
 * [Validation of the frequency modulation technique applied to the pulsating δ Sct-γ Dor eclipsing binary star KIC 8569819](/images/validation_FM.pdf), Kurtz et al. (2015), MNRAS 446, 1223
 * [The Role of Turbulent Pressure as a Coherent Pulsational Driving Mechanism: The Case of the delta Scuti Star HD 187547](/images/turbulent_pressure.pdf), Antoci et al. (2014), ApJ 796, 188
-* [Echelle diagrams and period spacings of g modes in gamma Doradus stars from four years of Kepler observations](/images/gmode_echelle.pdf), Bedding et al. (2014), arXiv1411.1883
-* [Asteroseismic measurement of surface-to-core rotation in a
-main-sequence A star, KIC 11145123](/images/kic11145123.pdf), Kurtz et al. (2014), MNRAS 444, 102
+* [Echelle diagrams and period spacings of g modes in gamma Doradus stars from four years of Kepler observations](/images/gmode_echelle.pdf), Bedding et al. (2015), EPJWC, 101, 01005
+* [Asteroseismic measurement of surface-to-core rotation in a main-sequence A star, KIC 11145123](/images/kic11145123.pdf), Kurtz et al. (2014), MNRAS 444, 102
 * [Unusual high-frequency oscillations in the Kepler delta Scuti star KIC 4840675](/images/Balona_et_al_2012.pdf), Balona et al. (2012), MNRAS 424, 1187
 * [The Kepler characterization of the variability among A- and F-type stars. I. General overview](/images/Uytterhoeven_et_al_2011.pdf), Uytterhoeven et al. (2011), A&A 534, A125
 
