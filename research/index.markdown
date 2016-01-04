@@ -7,19 +7,18 @@ section: Research
 Work
 ====
 
-As a member of the Kepler Asteroseismic Science Consortium, and chair of the time-series analysis sub-group of the classical pulsators working group, I use ultra-precise Kepler data to study the A-type stars. In addition to publicly available software, I perform data analysis with my own suite of tools designed specifically for working with Kepler data.
-
-As well as providing a rough description of what it is I do, this page serves as a useful place to collect all of my research material in one place, so that prospective employers find it easier to give me a job (nudge nudge). In fact, that is why I've uploaded my [CV](/images/CV_SJM.pdf), too.
+As a member of the Kepler Asteroseismic Science Consortium, and chair of the time-series analysis sub-group of the classical pulsators working group, I use ultra-precise Kepler data to study the A-type stars. I perform data analysis with my own software designed specifically for working with Kepler data.
 
 Current Research
 ================
 * Finding binaries among pulsating stars;
-* Chemically peculiar stars in and around the delta Scuti instability strip;
-* Developing the MK process for spectral classification;
-* Case studies of individual delta Scuti stars; and
-* Extending the number of known &lambda; Bootis stars.
+* Mapping the internal rotation profiles of main-sequence stars;
+* Developing methods for super-Nyquist asteroseismology
+    * Chemically peculiar stars in and around the delta Scuti instability strip;
+    * Developing the MK process for spectral classification;
+    * Extending the number of known &lambda; Bootis stars.
 
-You may also like to take a look at the video of a [public talk](http://vimeo.com/68289086) I gave in May 2013, or this short (300-word) [research summary](/images/research_summary.pdf).
+You may also like to take a look at the video of a [public talk](http://vimeo.com/68289086) I gave in May 2013.
 
 First-author Publications
 =========================
@@ -37,8 +36,6 @@ First-author Publications
 * [Characteristics of Kepler short- and long-cadence data](/images/characteristics.pdf), Murphy (2012a), MNRAS 422, 665
 
 <small><sup>\*</sup>The publisher introduced some errors into the manuscript, and so an <a href="http://simonmurphy.info/images/erratum_11754974.pdf">erratum</a> was published.</small>
-
-Here is a full list of [publications, conferences attended and presentations given](/images/publications_conferences_contributions.pdf).
 
 As co-author
 ============
