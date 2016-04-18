@@ -14,14 +14,15 @@ Current Research
 * Finding binaries among pulsating stars;
 * Mapping the internal rotation profiles of main-sequence stars;
 * Developing methods for super-Nyquist asteroseismology
-    * Chemically peculiar stars in and around the delta Scuti instability strip;
-    * Developing the MK process for spectral classification;
-    * Extending the number of known &lambda; Bootis stars.
+- Chemically peculiar stars in and around the delta Scuti instability strip;
+- Developing the MK process for spectral classification;
+- Extending the number of known &lambda; Bootis stars.
 
 You may also like to take a look at the video of a [public talk](http://vimeo.com/68289086) I gave in May 2013.
 
 First-author Publications
 =========================
+* [Near-uniform internal rotation of the main sequence gamma Doradus pulsator KIC 7661054](/images/7661054.pdf), Murphy et al. (2016), MNRAS, tbd
 * [An evaluation of the membership probability of 212 lambda Boo stars: I. A Catalogue.](/images/lambda_boo_catalogue.pdf), Murphy et al. (2015b), PASA, 32, 36
 * [The potential for super-Nyquist asteroseismology with TESS](/images/tess_sampling.pdf), Murphy (2015), MNRAS, 453, 2569
 * [Deriving the orbital properties of pulsators in binary systems through their light arrival time delays](/images/PM2.pdf), Murphy & Shibahashi (2015), MNRAS, 450, 4475
