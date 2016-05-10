@@ -22,7 +22,7 @@ You may also like to take a look at the video of a [public talk](http://vimeo.co
 
 First-author Publications
 =========================
-* [Near-uniform internal rotation of the main sequence gamma Doradus pulsator KIC 7661054](/images/7661054.pdf), Murphy et al. (2016), MNRAS, tbd
+* [Near-uniform internal rotation of the main sequence gamma Doradus pulsator KIC 7661054](/images/7661054.pdf), Murphy et al. (2016), MNRAS, 459, 1201
 * [An evaluation of the membership probability of 212 lambda Boo stars: I. A Catalogue.](/images/lambda_boo_catalogue.pdf), Murphy et al. (2015b), PASA, 32, 36
 * [The potential for super-Nyquist asteroseismology with TESS](/images/tess_sampling.pdf), Murphy (2015), MNRAS, 453, 2569
 * [Deriving the orbital properties of pulsators in binary systems through their light arrival time delays](/images/PM2.pdf), Murphy & Shibahashi (2015), MNRAS, 450, 4475
