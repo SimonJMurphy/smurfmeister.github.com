@@ -40,7 +40,7 @@ First-author Publications
 
 As co-author
 ============
-* [Binary star detectability in Kepler data from phase modulation of different types of oscillations](/images/pm3_kasoc.pdf), Compton et al. (2016), MNRAS, accepted.
+* [Binary star detectability in Kepler data from phase modulation of different types of oscillations](/images/PM3_Compton2016.pdf), Compton et al. (2016), MNRAS, accepted.
 * [Photometry of very bright stars with Kepler and K2 smear data](/images/smear.pdf), Pope et al. (2016), MNRAS, 455, 36
 * [KIC 10080943: A binary star with two gamma Doradus / delta Scuti hybrid pulsators. Analysis of the g modes](/images/kic10080943_keen.pdf), Keen et al. (2015), MNRAS, 454, 1792
 * [KIC 10080943: An eccentric binary system containing two pressure and gravity mode hybrid pulsators](/images/kic10080943_schmid.pdf), Schmid et al. (2015), A&A, 584, 35
