@@ -3,15 +3,15 @@ layout: default
 title: Home
 section: Home
 
-keywords: Simon Murphy, Astronomy, Astrophysics, Asteroseismology, Kepler, Jeremiah Horrocks Institute, delta Scuti, chemical peculiar, A-type star, Am star, Fourier, Nyquist, Spectral classification, lambda Boo, Usyd, University of Sydney, SIfA, Sydney Institute for Astronomy
+keywords: Simon Murphy, Astronomy, Astrophysics, Asteroseismology, Kepler, Stellar, Stars, delta Scuti, chemical peculiar, A-type star, Am star, Fourier, Nyquist, Spectral classification, lambda Boo, Usyd, University of Sydney, SIfA, Sydney Institute for Astronomy, Pulsations, Oscillations, Exoplanets
 ---
 
-<img class='inset right' src='/images/simon_murphy.jpg' title='Simon Murphy' alt='Simon @ Canberra' width='120px' />
+<img class='inset right' src='/images/Simon_with_Jupiter.jpg' title='Simon Murphy' alt='Simon @ Coonabarabran' width='120px' />
 
-Welcome
+Astronomer and Asteroseismologist
 =======
 
-I’m Simon Murphy, a postdoctoral researcher at the University of Sydney. I use data from the Kepler Space Telescope to investigate A-type stars using a technique called asteroseismology. I also conduct spectral classification of A-type stars, with a keen interest in Am and &lambda; Boo peculiarities.
+I’m Simon Murphy, a postdoctoral researcher at the University of Sydney. I use Kepler data to investigate A-type stars using a technique called asteroseismology. I model the orbits of pulsating stars in binary systems and study the spectra of stars, with a keen interest in Am and &lambda; Boo peculiarities.
 
 Research
 ========
@@ -22,7 +22,7 @@ Ongoing projects include:
 * Mapping the internal rotation profiles of main-sequence stars;
 * Developing methods for super-Nyquist asteroseismology
 
-My publications are collected under the [Research](/research) tab on the top-right of the page.
+My publications and a more specific description are collected under the [Research](/research) tab on the top-right of the page.
 
 Hobbies
 =======
