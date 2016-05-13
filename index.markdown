@@ -6,7 +6,7 @@ section: Home
 keywords: Simon Murphy, Astronomy, Astrophysics, Asteroseismology, Kepler, Stellar, Stars, delta Scuti, chemical peculiar, A-type star, Am star, Fourier, Nyquist, Spectral classification, lambda Boo, Usyd, University of Sydney, SIfA, Sydney Institute for Astronomy, Pulsations, Oscillations, Exoplanets
 ---
 
-<img class='inset right' src='/images/Simon_with_Jupiter.jpg' title='Simon Murphy' alt='Simon @ Coonabarabran' width='120px' />
+<img class='inset right' src='/images/Simon_with_Jupiter.jpg' title='Simon Murphy' alt='Simon @ Coonabarabran' width='180px' />
 
 Astronomer and Asteroseismologist
 =======
