@@ -7,7 +7,7 @@ section: Research
 Work
 ====
 
-As a member of the Kepler Asteroseismic Science Consortium, and chair of the time-series analysis sub-group of the classical pulsators working group, I use ultra-precise Kepler data to study the A-type stars. I perform data analysis with my own software designed specifically for working with Kepler data.
+I recently wrote some MCMC software from scratch for analysing the orbits of binary stars. The observational data are extracted from Kepler photometry, by quantifying phase shifts in stellar pulsations. I also investigate the interior rotation rates of stars using the same photometry, by looking for periodic patterns in the g mode pulsations of &gamma; Doradus stars. Rotational splittings in the oscillation frequencies reveal the rotation rate of the stellar core. Repeating this analysis for a large number of stars allows the angular momentum profiles of intermediate-mass stars to be mapped across a variety of stellar properties.
 
 Current Research
 ================
@@ -18,7 +18,8 @@ Current Research
 - Developing the MK process for spectral classification;
 - Extending the number of known &lambda; Bootis stars.
 
-You may also like to take a look at the video of a [public talk](http://vimeo.com/68289086) I gave in May 2013.
+You may also like to take a look at the video of a [public talk](http://vimeo.com/68289086) I gave in May 2013,
+or my three-minute [news segment](http://www.todaytonightadelaide.com.au/stories/kepler-discovery) on Kepler's exoplanet announcement in May 2016.
 
 First-author Publications
 =========================
