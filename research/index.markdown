@@ -42,8 +42,10 @@ First-author Publications
 
 As co-author
 ============
-* [Binary star detectability in Kepler data from phase modulation of different types of oscillations](/images/PM3_Compton2016.pdf), Compton et al. (2016), MNRAS, accepted.
-* [Amplitude modulation in delta Sct stars: statistics from an ensemble study of Kepler targets](/images/amplitude_modulation.pdf), Bowman et al. (2016), MNRAS, accepted.
+* [Detection of solar-like oscillations, observational constraints, and stellar models for theta Cyg, the brightest star observed by the Kepler mission](/images/theta_Cyg.pdf), Guzik et al. (2016), arxiv 1607.01035
+* [HD 24355 observed by the Kepler-K2 mission. A rapidly oscillating Ap star pulsating in a distorted quadrupole mode](/images/HD24355.pdf), Holdsworth et al. (2016), arxiv 1607.03853
+* [Binary star detectability in Kepler data from phase modulation of different types of oscillations](/images/PM3_Compton2016.pdf), Compton et al. (2016), MNRAS, 461, 1943
+* [Amplitude modulation in delta Sct stars: statistics from an ensemble study of Kepler targets](/images/amplitude_modulation.pdf), Bowman et al. (2016), MNRAS, 460, 1970
 * [Photometry of very bright stars with Kepler and K2 smear data](/images/smear.pdf), Pope et al. (2016), MNRAS, 455, 36
 * [KIC 10080943: A binary star with two gamma Doradus / delta Scuti hybrid pulsators. Analysis of the g modes](/images/kic10080943_keen.pdf), Keen et al. (2015), MNRAS, 454, 1792
 * [KIC 10080943: An eccentric binary system containing two pressure and gravity mode hybrid pulsators](/images/kic10080943_schmid.pdf), Schmid et al. (2015), A&A, 584, 35
