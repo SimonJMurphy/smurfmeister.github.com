@@ -23,6 +23,7 @@ or my three-minute [news segment](http://www.todaytonightadelaide.com.au/stories
 
 First-author Publications
 =========================
+* [Finding binaries from phase modulation of pulsating stars with Kepler - IV. Detection limits and RV verification](/images/PM_HaH.pdf), Murphy et al. (2016), MNRAS, 461, 4215
 * [Near-uniform internal rotation of the main sequence gamma Doradus pulsator KIC 7661054](/images/7661054.pdf), Murphy et al. (2016), MNRAS, 459, 1201
 * [An evaluation of the membership probability of 212 lambda Boo stars: I. A Catalogue.](/images/lambda_boo_catalogue.pdf), Murphy et al. (2015b), PASA, 32, 36
 * [The potential for super-Nyquist asteroseismology with TESS](/images/tess_sampling.pdf), Murphy (2015), MNRAS, 453, 2569
