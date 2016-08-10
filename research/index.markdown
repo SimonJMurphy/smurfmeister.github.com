@@ -23,6 +23,7 @@ or my three-minute [news segment](http://www.todaytonightadelaide.com.au/stories
 
 First-author Publications
 =========================
+* [A planet in an 840-d orbit around a Kepler main-sequence A star found from phase modulation of its pulsations](/images/7917485_planet.pdf), Murphy et al. (2016), ApJL, 827, L17
 * [Finding binaries from phase modulation of pulsating stars with Kepler - IV. Detection limits and RV verification](/images/PM_HaH.pdf), Murphy et al. (2016), MNRAS, 461, 4215
 * [Near-uniform internal rotation of the main sequence gamma Doradus pulsator KIC 7661054](/images/7661054.pdf), Murphy et al. (2016), MNRAS, 459, 1201
 * [An evaluation of the membership probability of 212 lambda Boo stars: I. A Catalogue.](/images/lambda_boo_catalogue.pdf), Murphy et al. (2015b), PASA, 32, 36
