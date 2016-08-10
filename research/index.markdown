@@ -44,6 +44,7 @@ First-author Publications
 As co-author
 ============
 * [KIC3749404: A heartbeat Star with Rapid Apsidal Advance Indicative of a Tertiary Component](/images/3749404_heartbeat_apsidal_motion.pdf), Hambleton et al. (2016), arxiv 1608.02493
+* [The ANU WiFeS SuperNovA Programme (AWSNAP)](/images/AWSNAP.pdf), Childress et al. (2016), arxiv 1607.08526
 * [Detection of solar-like oscillations, observational constraints, and stellar models for theta Cyg, the brightest star observed by the Kepler mission](/images/theta_Cyg.pdf), Guzik et al. (2016), arxiv 1607.01035
 * [HD 24355 observed by the Kepler-K2 mission. A rapidly oscillating Ap star pulsating in a distorted quadrupole mode](/images/HD24355.pdf), Holdsworth et al. (2016), arxiv 1607.03853
 * [Binary star detectability in Kepler data from phase modulation of different types of oscillations](/images/PM3_Compton2016.pdf), Compton et al. (2016), MNRAS, 461, 1943
