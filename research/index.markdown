@@ -23,6 +23,7 @@ or my three-minute [news segment](http://www.todaytonightadelaide.com.au/stories
 
 First-author Publications
 =========================
+* [Gaia's view of the lambda Boo star puzzle](/images/Gaia_LB.pdf), Murphy et al. (2017), MNRAS, 466, 546
 * [A planet in an 840-d orbit around a Kepler main-sequence A star found from phase modulation of its pulsations](/images/7917485_planet.pdf), Murphy et al. (2016), ApJL, 827, L17
 * [Finding binaries from phase modulation of pulsating stars with Kepler - IV. Detection limits and RV verification](/images/PM_HaH.pdf), Murphy et al. (2016), MNRAS, 461, 4215
 * [Near-uniform internal rotation of the main sequence gamma Doradus pulsator KIC 7661054](/images/7661054.pdf), Murphy et al. (2016), MNRAS, 459, 1201
@@ -43,10 +44,18 @@ First-author Publications
 
 As co-author
 ============
-* [KIC3749404: A heartbeat Star with Rapid Apsidal Advance Indicative of a Tertiary Component](/images/3749404_heartbeat_apsidal_motion.pdf), Hambleton et al. (2016), arxiv 1608.02493
-* [The ANU WiFeS SuperNovA Programme (AWSNAP)](/images/AWSNAP.pdf), Childress et al. (2016), arxiv 1607.08526
-* [Detection of solar-like oscillations, observational constraints, and stellar models for theta Cyg, the brightest star observed by the Kepler mission](/images/theta_Cyg.pdf), Guzik et al. (2016), arxiv 1607.01035
-* [HD 24355 observed by the Kepler-K2 mission. A rapidly oscillating Ap star pulsating in a distorted quadrupole mode](/images/HD24355.pdf), Holdsworth et al. (2016), arxiv 1607.03853
+* [Large amplitude change in spot-induced rotational modulation of the Kepler Ap star KIC 2569073](/images/KIC2569073_Ap.pdf), Drury et al. (2017), MNRAS, 471, 3193
+* [Beyond the Kepler/K2 bright limit: variability in the seven brightest members of the Pleiades](/images/K2_Pleiades.pdf), White et al. (2017), MNRAS, 471, 2882
+* [Spectroscopic and asteroseismic analysis of the remarkable main-sequence A star KIC 11145123](/images/11145123_spectroscopy.pdf), Takada-Hidai et al. (2017), MNRAS, 470, 4908
+* [The Discovery of lambda Bootis Stars: The Southern Survey I](/images/LB_stars_southern_survey_I.pdf), Gray et al. (2017), AJ, 154, 31
+* [KIC 8164262: a Heartbeat Star Showing Tidally Induced Pulsations with Resonant Locking](/images/8164262_heartbeat_tidal_pulsations.pdf), Hambleton et al. (2017), arxiv1706:05051
+* [Metal-rich SX Phe stars in the Kepler field](/images/SX_Phe_Kepler.pdf), Nemec et al. (2017), MNRAS, 466, 1290
+* [Pulsation versus metallicism in Am stars as revealed by LAMOST and WASP](/images/Pulsation_versus_metallicism.pdf), Smalley et al. (2017), MNRAS, 465, 2662
+* [A new asteroseismic diagnostic for internal rotation in gamma Doradus stars](/images/ouazzani_gdor_2017.pdf), Ouazzaniet al. (2017), MNRAS, 465, 2294
+* [Asteroseismology of 1523 misclassified red giants using Kepler data](/images/red_giant_reclassification.pdf), Yu et al. (2016), MNRAS, 463, 1297
+* [The ANU WiFeS SuperNovA Programme (AWSNAP)](/images/AWSNAP.pdf), Childress et al. (2016), PASA, 33, 55
+* [Detection of solar-like oscillations, observational constraints, and stellar models for theta Cyg, the brightest star observed by the Kepler mission](/images/theta_Cyg.pdf), Guzik et al. (2016), ApJ, 831, 17
+* [HD 24355 observed by the Kepler-K2 mission. A rapidly oscillating Ap star pulsating in a distorted quadrupole mode](/images/HD24355.pdf), Holdsworth et al. (2016), MNRAS 462, 876
 * [Binary star detectability in Kepler data from phase modulation of different types of oscillations](/images/PM3_Compton2016.pdf), Compton et al. (2016), MNRAS, 461, 1943
 * [Amplitude modulation in delta Sct stars: statistics from an ensemble study of Kepler targets](/images/amplitude_modulation.pdf), Bowman et al. (2016), MNRAS, 460, 1970
 * [Photometry of very bright stars with Kepler and K2 smear data](/images/smear.pdf), Pope et al. (2016), MNRAS, 455, 36
@@ -57,7 +66,7 @@ As co-author
 * [A unifying explanation of complex frequency spectra of gamma Dor, SPB and Be stars: combination frequencies and highly non-sinusoidal light curves](/images/gmode_combinations.pdf), Kurtz et al. (2015), MNRAS, 450, 3015
 * [Spectroscopic survey of Kepler stars. I. HERMES/Mercator observations of A- and F-type stars](/images/hermes_AF_stars.pdf), Niemczura et al. (2015), MNRAS, 450, 2764
 * [Asteroseismic measurement of slow, nearly uniform surface-to-core rotation in the main-sequence F star KIC 9244992](/images/kic9244992.pdf), Saio et al. (2015), MNRAS 447, 3264
-* [Validation of the frequency modulation technique applied to the pulsating δ Sct-γ Dor eclipsing binary star KIC 8569819](/images/validation_FM.pdf), Kurtz et al. (2015), MNRAS 446, 1223
+* [Validation of the frequency modulation technique applied to the pulsating delta Sct-gamma Dor eclipsing binary star KIC 8569819](/images/validation_FM.pdf), Kurtz et al. (2015), MNRAS 446, 1223
 * [The Role of Turbulent Pressure as a Coherent Pulsational Driving Mechanism: The Case of the delta Scuti Star HD 187547](/images/turbulent_pressure.pdf), Antoci et al. (2014), ApJ 796, 188
 * [Echelle diagrams and period spacings of g modes in gamma Doradus stars from four years of Kepler observations](/images/gmode_echelle.pdf), Bedding et al. (2015), EPJWC, 101, 01005
 * [Asteroseismic measurement of surface-to-core rotation in a main-sequence A star, KIC 11145123](/images/kic11145123.pdf), Kurtz et al. (2014), MNRAS 444, 102
