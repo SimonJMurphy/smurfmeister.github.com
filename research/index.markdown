@@ -47,6 +47,7 @@ As co-author
 * [Large amplitude change in spot-induced rotational modulation of the Kepler Ap star KIC 2569073](/images/KIC2569073_Ap.pdf), Drury et al. (2017), MNRAS, 471, 3193
 * [Beyond the Kepler/K2 bright limit: variability in the seven brightest members of the Pleiades](/images/K2_Pleiades.pdf), White et al. (2017), MNRAS, 471, 2882
 * [Spectroscopic and asteroseismic analysis of the remarkable main-sequence A star KIC 11145123](/images/11145123_spectroscopy.pdf), Takada-Hidai et al. (2017), MNRAS, 470, 4908
+* [Spectroscopic survey of Kepler stars - II. FIES/NOT observations of A- and F-type stars](/images/FIES_AF_stars.pdf), Niemczura et al. (2017), MNRAS, 470, 2870
 * [The Discovery of lambda Bootis Stars: The Southern Survey I](/images/LB_stars_southern_survey_I.pdf), Gray et al. (2017), AJ, 154, 31
 * [KIC 8164262: a Heartbeat Star Showing Tidally Induced Pulsations with Resonant Locking](/images/8164262_heartbeat_tidal_pulsations.pdf), Hambleton et al. (2017), arxiv1706:05051
 * [Metal-rich SX Phe stars in the Kepler field](/images/SX_Phe_Kepler.pdf), Nemec et al. (2017), MNRAS, 466, 1290
