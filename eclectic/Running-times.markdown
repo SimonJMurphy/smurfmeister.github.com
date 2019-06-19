@@ -20,7 +20,7 @@ The process of rearranging the collection is interesting, if time-consuming. One
 
 <img src="/images/shrunken_dvd_distribution_compressed.jpg" alt="running_times_distribution" width="480" height="360">
 
-<p><strong>Fig. 1</strong>: Distribution of film running times, shortest to the left, showing clear positive skew and a peak at 100-110 minutes. <em>In the background</em>: Rammstein hoody, because Rammstein are awesome.</p>
+<p><strong>Fig. 1</strong>: Distribution of film running times, shortest to the left, showing clear positive skew and a peak at 100-110 minutes.</p>
 
 I hope this will inspire you all to adopt your own organisational paradigm.<br>
 p.s. Be <em>very</em> careful when deciding to rearrange someone else's collection without permission, for three non-exhaustive reasons:
