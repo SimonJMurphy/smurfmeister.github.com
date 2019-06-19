@@ -22,7 +22,8 @@ The process of rearranging the collection is interesting, if time-consuming. One
 
 <p><strong>Fig. 1</strong>: Distribution of film running times, shortest to the left, showing clear positive skew and a peak at 100-110 minutes.</p>
 
-I hope this will inspire you all to adopt your own organisational paradigm.<br>
+I hope this will inspire you all to adopt your own organisational paradigm.
+
 p.s. Be <em>very</em> careful when deciding to rearrange someone else's collection without permission, for three non-exhaustive reasons:
 
 * There may be an existing organisational paradigm you are not aware of.
