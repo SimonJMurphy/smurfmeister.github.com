@@ -18,8 +18,13 @@ Current Research
 - Developing the MK process for spectral classification;
 - Extending the number of known &lambda; Bootis stars.
 
-You may also like to take a look at the video of a [public talk](http://vimeo.com/68289086) I gave in May 2013,
-or my three-minute [news segment](http://www.todaytonightadelaide.com.au/stories/kepler-discovery) on Kepler's exoplanet announcement in May 2016.
+Public and Media
+================
+
+Selected media pieces and public talks
+* 5-minute news segment with the ABC on [a star pulsating in only one hemisphere](https://vimeo.com/399390468)
+* three-minute [news segment] on [Kepler's exoplanet announcement](http://www.todaytonightadelaide.com.au/stories/kepler-discovery), May 2016
+* public talk on [Planets and Pulsations](http://vimeo.com/68289086), May 2013.
 
 First-author Publications
 =========================
