@@ -1,7 +1,7 @@
 SimonJMurphy
 ============
 
-This repository contains the source for my personal site at <simonmurphy.info>.
+This repository contains the source for my personal site at [simonmurphy.info](simonmurphy.info).
 
 License
 =======
